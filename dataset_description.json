@@ -1,0 +1,20 @@
+{
+    "Name": "Areal specializations in the morpho-electric and transcriptomic properties of layer 5 extratelencephalic-projecting neurons in the primate neocortex",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Electrophysiology dataset associated with journal article titled areal specializations in the morpho-electric and transcriptomic properties of layer 5 extratelencephalic-projecting neurons in the primate neocortex. NWB files contains current clamp data collected for analysis of deep layer 5 ET neurons in the primate temporal and motor cortical regions. ",
+    "DatasetType": "raw",
+    "Authors": [
+        "Sawchuk, Scott",
+        "Kalmbach, Brian"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
